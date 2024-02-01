@@ -171,3 +171,9 @@ git push -u origin --all : to push all branches
 Git push -u origin branch1 branch2 : to push specific branches
 
 
+Git clone
+Git add
+git commit 
+
+
+
